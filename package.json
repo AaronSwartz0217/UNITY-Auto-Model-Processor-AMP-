@@ -1,0 +1,12 @@
+{
+  "name": "com.codex.auto-model-processor",
+  "version": "2.6.2",
+  "displayName": "Auto Model Processor",
+  "description": "Batch converts plant and obstacle FBX assets into standardized prefabs, including splitting parallel FBX objects.",
+  "unity": "2022.3",
+  "keywords": ["model", "fbx", "prefab", "automation"],
+  "author": { "name": "Codex" },
+  "samples": [
+    { "displayName": "Quick Start", "description": "Example scene and configuration.", "path": "Samples~/QuickStart" }
+  ]
+}

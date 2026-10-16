@@ -1,0 +1,7 @@
+{
+  "name": "Codex.AutoModelProcessor.Editor",
+  "rootNamespace": "Codex.AutoModelProcessor",
+  "references": [],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}
